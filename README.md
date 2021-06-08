@@ -15,7 +15,7 @@ As a user I should be able to render responsive porfolio web application on any 
 
 ## Installation
 
-Navigate to url : https://bhavipatel21.github.io/ 
+Navigate to url : https://bhavipatel21.github.io/UpdatedPortFolio/
 
 
 ## Usage 
@@ -23,7 +23,7 @@ The following image shows the web application's appearance and functionality:
 
 
 ![aboutme](./assets/aboutme_01.png)
-![aboutme]()
+![aboutme](./assets/portfolio_02.png)
 ![aboutme](./assets/contact_03.png)
 
 

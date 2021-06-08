@@ -23,7 +23,7 @@ The following image shows the web application's appearance and functionality:
 
 
 ![aboutme](./assets/aboutme_01.png)
-![aboutme](./assets/portfolio_02.png)
+![aboutme]()
 ![aboutme](./assets/contact_03.png)
 
 
